@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilibili | WANG Haiyu</title>
+    <link>https://smangic.github.io/tags/bilibili/</link>
+      <atom:link href="https://smangic.github.io/tags/bilibili/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bilibili</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smangic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Bilibili</title>
+      <link>https://smangic.github.io/tags/bilibili/</link>
+    </image>
+    
+    <item>
+      <title>⚡️ Review lessons of Analog Circuit 2 released on my bilibili channel</title>
+      <link>https://smangic.github.io/post/analogcircuit2/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://smangic.github.io/post/analogcircuit2/</guid>
+      <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 2 released on my bilibili channel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1R84y1i7dL&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>⚡️ Review lessons of Analog Circuit 2 released on my bilibili channel</title>
+      <link>https://smangic.github.io/post/analog-circuit1/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://smangic.github.io/post/analog-circuit1/</guid>
+      <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 2 released on my bilibili channel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1hv4y1U7vm&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

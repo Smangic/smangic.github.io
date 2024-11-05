@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utility Model | WANG Haiyu</title>
+    <link>https://smangic.github.io/publication_types/utility-model/</link>
+      <atom:link href="https://smangic.github.io/publication_types/utility-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Utility Model</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smangic.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Utility Model</title>
+      <link>https://smangic.github.io/publication_types/utility-model/</link>
+    </image>
+    
+    <item>
+      <title>焊接工件图像采集系统</title>
+      <link>https://smangic.github.io/publication/patent/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://smangic.github.io/publication/patent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

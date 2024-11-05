@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Co | WANG Haiyu</title>
+    <link>http://localhost:63117/tags/co/</link>
+      <atom:link href="http://localhost:63117/tags/co/index.xml" rel="self" type="application/rss+xml" />
+    <description>Co</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:63117/media/icon_hu7729264130191091259.png</url>
+      <title>Co</title>
+      <link>http://localhost:63117/tags/co/</link>
+    </image>
+    
+    <item>
+      <title>⚡️ Review lessons of Analog Circuit 1 released on my bilibili channel</title>
+      <link>http://localhost:63117/post/communicationprinciple/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63117/post/communicationprinciple/</guid>
+      <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 1 released on my bilibili channel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1U84y1g7PR&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

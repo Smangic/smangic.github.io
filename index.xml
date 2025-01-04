@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WANG Haiyu</title>
-    <link>https://smangic.github.io/</link>
-      <atom:link href="https://smangic.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>WANG Haiyu</description>
+    <title>Haiyu WANG</title>
+    <link>https://cv.haiyu.wang/</link>
+      <atom:link href="https://cv.haiyu.wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haiyu WANG</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smangic.github.io/media/icon_hu7729264130191091259.png</url>
-      <title>WANG Haiyu</title>
-      <link>https://smangic.github.io/</link>
+      <url>https://cv.haiyu.wang/media/icon_hu7729264130191091259.png</url>
+      <title>Haiyu WANG</title>
+      <link>https://cv.haiyu.wang/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://smangic.github.io/event/example/</link>
+      <link>https://cv.haiyu.wang/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/event/example/</guid>
+      <guid>https://cv.haiyu.wang/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -37,42 +37,42 @@
     </item>
     
     <item>
-      <title>焊接工件图像采集系统</title>
-      <link>https://smangic.github.io/publication/patent/</link>
+      <title>Welded Workpiece Image Acquisition System</title>
+      <link>https://cv.haiyu.wang/publication/patent/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/publication/patent/</guid>
+      <guid>https://cv.haiyu.wang/publication/patent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://smangic.github.io/projects/</link>
+      <link>https://cv.haiyu.wang/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/projects/</guid>
+      <guid>https://cv.haiyu.wang/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passive Respiration Detection via mmWave Communication Signal under Interference</title>
-      <link>https://smangic.github.io/publication/wu-passive-respiration-detection-2024/</link>
+      <link>https://cv.haiyu.wang/publication/wu-passive-respiration-detection-2024/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/publication/wu-passive-respiration-detection-2024/</guid>
+      <guid>https://cv.haiyu.wang/publication/wu-passive-respiration-detection-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://smangic.github.io/experience/</link>
+      <link>https://cv.haiyu.wang/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/experience/</guid>
+      <guid>https://cv.haiyu.wang/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://smangic.github.io/teaching/js/</link>
+      <link>https://cv.haiyu.wang/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/teaching/js/</guid>
+      <guid>https://cv.haiyu.wang/teaching/js/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -121,7 +121,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://smangic.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://cv.haiyu.wang/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -198,9 +198,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://smangic.github.io/teaching/python/</link>
+      <link>https://cv.haiyu.wang/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/teaching/python/</guid>
+      <guid>https://cv.haiyu.wang/teaching/python/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -249,7 +249,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://smangic.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://cv.haiyu.wang/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -325,18 +325,377 @@ data.head()
     </item>
     
     <item>
+      <title>⚡️ Review lessons of Communication Principles 2 released on my bilibili channel</title>
+      <link>https://cv.haiyu.wang/post/communicationprinciple2/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/post/communicationprinciple2/</guid>
+      <description>&lt;p&gt;This is the recording of the review lessons of Communication Principles 2 released on my bilibili channel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1gz4y1b7LK&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;communication-principles-final-review----digital-communication&#34;&gt;Communication Principles Final Review &amp;ndash; Digital Communication&lt;/h1&gt;
+&lt;center&gt; Wang Haiyu &lt;/center&gt;
+&lt;h2 id=&#34;from-analog-to-digital&#34;&gt;From Analog to Digital&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ATTENTION&lt;/strong&gt;: This discussion is from the receiver&amp;rsquo;s perspective.&lt;/p&gt;
+&lt;p&gt;In reality, signals (electromagnetic waves) are continuous. However, our computers can only process discrete data, so it is necessary to convert continuous signals into discrete data. We learned about sampling in signals and systems, but after sampling, the signal is only discrete in time and remains continuous in amplitude, so we need to quantize it. However, ideal sampling is difficult to achieve, and we use Pulse Amplitude Modulation (PAM) and other pulse modulation techniques to approximate sampling.&lt;/p&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230510062020902.png&#34; alt=&#34;image-20230510062020902&#34; style=&#34;zoom: 25%;&#34; /&gt;
+&lt;h3 id=&#34;sampling&#34;&gt;Sampling&lt;/h3&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230510062646657.png&#34; alt=&#34;image-20230510062646657&#34; style=&#34;zoom: 25%;&#34; /&gt;
+&lt;p&gt;Similar to what we learned in signals and systems, for signals with limited bandwidth, lossless sampling follows the Nyquist theorem, which states that the sampling frequency must be greater than twice the highest frequency of the signal to ensure that the sampled signal is consistent with the original signal.
+&lt;/p&gt;
+$$
+f_s&gt;2f_{max}
+$$&lt;p&gt;
+The sampling function is:
+&lt;/p&gt;
+$$
+x_s(t)=x(t)\sum_{n=-\infty}^{\infty}\delta(t-nT)
+$$&lt;p&gt;
+Where:
+&lt;/p&gt;
+$$
+T=\frac{1}{f_s}
+$$&lt;p&gt;
+The spectrum after sampling is:
+&lt;/p&gt;
+$$
+X_s(f)=\frac{1}{T}\sum_{n=-\infty}^{\infty}X(f-nf_s)
+$$&lt;h3 id=&#34;analog-pulse-modulation&#34;&gt;Analog Pulse Modulation&lt;/h3&gt;
+&lt;h4 id=&#34;pulse-amplitude-modulation-pam&#34;&gt;Pulse Amplitude Modulation (PAM)&lt;/h4&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230510065509471.png&#34; alt=&#34;image-20230510065509471&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;p&gt;Ideal sampling has an infinitesimally short duration for each point, which is unrealistic. In practical sampling, the sampled signal lasts for a short duration and thus becomes PAM. Its mathematical expression can be understood as the sampling function multiplied by a rectangular pulse, expressed as:
+&lt;/p&gt;
+$$
+x_{pam}(t)=x(t)\sum_{n=-\infty}^{\infty}\delta(t-nT_s) * [u(t)-u(t-T)]
+$$&lt;p&gt;
+The expression for the rectangular function in the frequency domain is:
+&lt;/p&gt;
+$$
+|H_e(f)|=\frac{1}{|H(f)|}=\frac{\pi f}{\sin(\pi fT)}
+$$&lt;p&gt;
+It can be seen that the cost of doing this is the need to occupy a wider bandwidth.&lt;/p&gt;
+&lt;h4 id=&#34;pulse-position-modulation-ppm&#34;&gt;Pulse Position Modulation (PPM)&lt;/h4&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230512184553485.png&#34; alt=&#34;image-20230512184553485&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;p&gt;There will be further explanation on how PPM is implemented and how it is demodulated. This part is just to indicate that this method is feasible, and the specific details can be checked later. The most important thing to know is that &lt;strong&gt;the purpose of Pulse Modulation is ultimately to convert the amplitudes of the sampling points into a solvable mathematical expression.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At this point, we have achieved a more realistic &amp;ldquo;sampling,&amp;rdquo; obtaining the amplitude of each sampling point, but these amplitudes are still continuous. We need to convert them into discrete data; this is quantization.&lt;/p&gt;
+&lt;h5 id=&#34;ppm-signal-generation&#34;&gt;PPM Signal Generation&lt;/h5&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230511211552726.png&#34; alt=&#34;image-20230511211552726&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;h5 id=&#34;ppm-detection&#34;&gt;PPM Detection&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Determine the position of the Peak
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230511210834035.png&#34; alt=&#34;image-20230511210834035&#34; style=&#34;zoom: 50%;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The shift distance is obviously related to the chosen threshold&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PPM -&amp;gt; PAM&lt;/p&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230511210847822.png&#34; alt=&#34;image-20230511210847822&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;The midpoint is the zero point of PPM, so it needs to add Ts/2, which is consistent with the generation of the PPM signal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;noise-effect-in-ppm&#34;&gt;Noise Effect in PPM&lt;/h5&gt;
+&lt;p&gt;It is nearly impossible to test, review if you have time.&lt;/p&gt;
+&lt;h3 id=&#34;quantization&#34;&gt;Quantization&lt;/h3&gt;
+&lt;h4 id=&#34;uniform-quantization&#34;&gt;Uniform Quantization&lt;/h4&gt;
+&lt;p&gt;Through the previous steps, we can already obtain the amplitude of each sampling point, but these amplitudes are still continuous. We need to convert them into discrete data; this is quantization. This part is consistent with digital circuits.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Let L be the number of quantization levels, that is, the number of quantized amplitudes. $L=2^R$, where R is the number of quantization bits.&lt;/li&gt;
+&lt;li&gt;The interval between each two quantization levels, known as the quantization step (quantum) (we only discuss the case of uniform quantization):
+$$
+   \Delta=\frac{2m_{max}}{L}【m_{max} is the maximum amplitude in the signal】
+   $$
+We assume that the quantization error is uniformly distributed, then:
+$$
+   Q \sim U(-\frac{\Delta}{2},\frac{\Delta}{2})
+   $$
+Thus, the mean square value of the quantization error is:
+$$
+   E[Q^2]=\frac{\Delta^2}{12}
+   $$
+This value is also the power of the quantization error; hence the signal-to-noise ratio (SNR) is:
+$$
+   SNR=\frac{P_s}{P_e}=\frac{E[M^2]}{E[Q^2]}
+   =\frac{12P}{\Delta^2}=\frac{3P}{m_{max}^2}2^{2R}
+   $$
+It can be observed that the larger the number of quantization bits, the greater the signal-to-noise ratio, but as the number of quantization bits increases, the required bandwidth also increases, so we need to balance between the signal-to-noise ratio and bandwidth.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;nonuniform-quantization&#34;&gt;Nonuniform Quantization&lt;/h4&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230511220334720.png&#34; alt=&#34;image-20230511220334720&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;p&gt;The interval between each quantization level is no longer fixed. If a certain signal amplitude is likely to appear in a specific range, it is reasonable for it to have a higher probability of being quantized to a certain value. The specific implementation can be likened to a type of companding technique: taking the square root of the obtained value and then multiplying it by 10. Of course, the method is not unique. You can understand the $\mu-law$ presented in the course material, but there is no need to memorize the formula.&lt;/p&gt;
+&lt;p&gt;Example problem: #D3-2&lt;/p&gt;
+&lt;p&gt;Show that, with a non-uniform quantizer, the average power (mean-square value) of the quantization error is approximately equal to $(1/12)\sum_i{{\Delta_i}^2\mathrm{p_i}}$ where $\Delta_i$ is the i-th step size and $p_i$ is the probability that the input signal amplitude lies within the i-th interval $R_j$. Assume that the step-size $\Delta_i$ is small compared with the range of input signal, such that the signal can be treated as uniformly distributed within each step size.&lt;/p&gt;
+&lt;p&gt;Hints:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Let Q be the quantization error, the expectation of Q is given by $E[Q^2]=\sum_i E[Q^2|\text{signal is in the i-th step size}] \Pr [\text{signal is in the i-th step size}]$&lt;/li&gt;
+&lt;li&gt;The mean and variance of a uniformly distributed random variable within [a,b] are given by $\frac{1}{2}(a+b)$ and&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pure reading comprehension + statistical questions&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;At this point, we have obtained purely digital signals!&lt;/p&gt;
+&lt;p&gt;PS: There is no need to consider Delta Modulation&lt;/p&gt;
+&lt;h2 id=&#34;baseband-transmission-of-digital-signals&#34;&gt;Baseband Transmission of Digital Signals&lt;/h2&gt;
+&lt;p&gt;The term baseband refers to signals that have not undergone up-conversion, meaning they are generally the most &amp;ldquo;primitive&amp;rdquo; signals. Wired communication can directly transmit baseband signals, while wireless communication requires that the signals undergo up-conversion to be transmitted.&lt;/p&gt;
+&lt;p&gt;A considerable amount of mathematical knowledge is covered here, and we just need to roughly understand and memorize it; familiarity will come with exposure.&lt;/p&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;img src=&#34;https://smangic-markdown-image.oss-cn-shenzhen.aliyuncs.com/img/image-20230512164612875.png&#34; alt=&#34;image-20230512164612875&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;p&gt;Initially, a device will generate the bit stream that needs to be transmitted. This bit stream is then modulated and converted by the digital-to-analog converter (Modulation Mapping) to obtain the baseband signal. It is then transmitted over a channel. The signal is received by the receiver, which first undergoes [LTI Filter](#LTI Filter), [analog-to-digital conversion](#From Analog to Digital), and demodulation mapping (Demodulation Mapping), and then the bit stream is obtained.&lt;/p&gt;
+&lt;h3 id=&#34;mathematical-knowledge&#34;&gt;Mathematical Knowledge&lt;/h3&gt;
+&lt;h4 id=&#34;random-process&#34;&gt;Random Process&lt;/h4&gt;
+&lt;p&gt;My understanding combines time series with statistical models. A “process” refers to a function of time. The value at each moment is unpredictable but conforms to a certain distribution.&lt;/p&gt;
+&lt;p&gt;In other words, if $g(t)$ is a random process, then $g(t_1)$ is a random variable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ATTENTION&lt;/strong&gt;: Here we are always addressing an &lt;strong&gt;unknown signal&lt;/strong&gt;. If it is known, such as $g(t)=\sin(t)$, it is determined, and there is no concept of a random process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Question&lt;/strong&gt;: If the transmitted signal is known, why is there still a need for a random process?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Answer&lt;/strong&gt;: The main purpose is to model noise.&lt;/p&gt;
+&lt;h4 id=&#34;gaussian-process&#34;&gt;Gaussian Process&lt;/h4&gt;
+&lt;p&gt;At any moment $g(t_n)$ of a random process, it is a random variable that follows a Gaussian distribution (normal distribution).&lt;/p&gt;
+$$
+f(x) = \frac{1}{\sqrt{2\pi}\sigma}e^{-\frac{(x-\mu)^2}{2\sigma^2}}
+$$&lt;ul&gt;
+&lt;li&gt;For a Gaussian process $g(t)$:
+&lt;ul&gt;
+&lt;li&gt;$g(t_1)$ is a Gaussian random variable&lt;/li&gt;
+&lt;li&gt;$a_1g(t_1)+a_2g(t_2)$ is a Gaussian random variable&lt;/li&gt;
+&lt;li&gt;For a known function $f(t)$, $\int_{t_1}^{t_2}f(t)g(t)dt$ is a Gaussian random variable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;stationary-process&#34;&gt;Stationary Process&lt;/h4&gt;
+&lt;p&gt;A stationary process refers to a stochastic process whose statistical properties do not change over time. That is, for any moment t, the statistical properties of the stochastic process are the same. The &lt;strong&gt;autocorrelation function (Correlation Function)&lt;/strong&gt; of g(t) is a function that does not depend on t:
+&lt;/p&gt;
+$$
+R_g(\tau)=E[g(t_0)g(t_0+\tau)]=E[g(t_0+\tau)g(t_0)]~~for~all~t_0 \in t
+$$&lt;p&gt;
+&lt;strong&gt;ATTENTION&lt;/strong&gt;: g(t) should be a continuous time series, but the expectation contains a specific point in time. For example, if $g(t) = a t*u(t)$, then $g(t_0)=at_0*\delta(t-t_0)$.&lt;/p&gt;
+&lt;p&gt;A more intuitive understanding is that if the value of a time series signal at the previous moment has no effect on the value at the next moment, then it is stationary.&lt;/p&gt;
+&lt;p&gt;For example: suppose a signal is: $g(t)=n_t u(t), n_t \sim N(0,\sigma^2)$, then:
+&lt;/p&gt;
+$$
+\begin{aligned}
+R_g(\tau) &amp;= E[g(t_0)g(t_0+\tau)]
+\\&amp;=E[n_tn_{t+\tau}*\delta(t_0)\delta(t_0+\tau)]
+\\&amp;=\sigma^2\delta(\tau)
+\\&amp;= \begin{cases}
+\sigma^2, &amp; \tau = 0
+\\0, &amp; \tau \neq 0
+\end{cases}
+\end{aligned}
+$$&lt;ul&gt;
+&lt;li&gt;The final result does not depend on t, so it is a stationary process.&lt;/li&gt;
+&lt;li&gt;Any time series, even if it is not a stochastic process, can have its autocorrelation function calculated; this point will be studied further in wireless communication. [Autocorrelation functions and stochastic processes are not bound together]. Let&amp;rsquo;s get a brief taste of it:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Assume a signal is: $g(t)=2t*u(t)$ [This is a completely determined signal], then:
+&lt;/p&gt;
+$$
+\begin{aligned}
+R_g(\tau,t_0) &amp;= E[g(t_0)g(t_0+\tau)]
+\\&amp;=E[2t_0*2(t_0+\tau)*\delta(t_0)\delta(t_0+\tau)]
+\\&amp;=4t_0(t_0+\tau)\delta(\tau)
+\\&amp;= \begin{cases}
+4t_0^2, &amp; \tau = 0
+\\0, &amp; \tau \neq 0
+\end{cases}
+\end{aligned}
+$$&lt;h4 id=&#34;power-spectrum-of-stochastic-processes&#34;&gt;Power Spectrum of Stochastic Processes&lt;/h4&gt;
+&lt;p&gt;All of the above was actually just to calculate a power.&lt;/p&gt;
+$$
+S_g(f)= \int_{-\infty}^{\infty}R_g(\tau)e^{-j2\pi f \tau}d\tau
+$$&lt;p&gt;This is essentially the Fourier transform of the autocorrelation function, which is widely used in wireless communication. The previous example has already confirmed that a white noise signal is a stationary process. If $\sigma^2=\frac{N_0}{2}$, then:
+&lt;/p&gt;
+$$
+\operatorname{E}[n(t+\tau)n(t)]=\frac{N_{0}}{2}\delta(\tau)
+$$&lt;p&gt;
+it is possible to obtain its power spectrum:
+&lt;/p&gt;
+$$
+S_g(f)=N_0/2
+$$&lt;blockquote&gt;
+&lt;p&gt;Up to this point, we have actually proven for the first time that the power spectrum of Gaussian distributed white noise is a constant. In the analog communication section, we directly used this conclusion. (In other words, all of this was done to obtain a known conclusion) x&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;lti-filter&#34;&gt;LTI Filter&lt;/h3&gt;
+&lt;p&gt;We assume that the signal generated by the transmitter is \( s(t) = \sum_i a_i g(t - i T) \). Let&amp;rsquo;s first consider the simplest case with only one bit: \( s(t) = ag(t) \). The noise is Gaussian noise: \( x(t) = s(t) + w(t) \).&lt;/p&gt;
+&lt;p&gt;Our receiver can be viewed as a linear time-invariant (LTI) system with impulse response \( h(t) \). The received signal is then given by: \( y(t) = s(t) * h(t) + w(t) * h(t) = g_0(t) + n(t) \). Our goal is to design an \( h(t) \) such that the signal-to-noise ratio (SNR) of the final received signal is maximized. Our decision occurs at the moment \( t = T \) (at time \( T \) is definitely optimal; if in doubt, substitute other moments to see), so we only look at the SNR at that particular moment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Noise part:&lt;/li&gt;
+&lt;/ul&gt;
+$$
+E[n^2(t)] = \frac{N_0}{2} \int_{-\infty}^{\infty} |H(f)|^2 df ~~~~~~ t = T
+$$&lt;blockquote&gt;
+&lt;p&gt;The power spectrum can be multiplied directly.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Signal part:&lt;/li&gt;
+&lt;/ul&gt;
+$$
+g_0(t) = h(t) * ag(t) \xrightarrow{Fourier~ Transform} aH(f)G(f)
+$$$$
+E[g_0^2(t)] = \int\limits_{-\infty}^{\infty} \left| H(f) G(f) e^{j2\pi f t} \right|^2 df ~~~~ t = T
+$$&lt;p&gt;Our objective is to maximize:&lt;/p&gt;
+$$
+\frac{E[g_0^2(T)]}{E[n^2(T)]} = \frac{\int\limits_{-\infty}^{\infty} \left| H(f) G(f) e^{j2\pi f T} \right|^2 df}{\frac{N_0}{2} \int_{-\infty}^{\infty} |H(f)|^2 df} = \frac{2 \int\limits_{-\infty}^{\infty} \left| H(f) G(f) e^{j2\pi f T} \right|^2 df}{N_0 \int_{-\infty}^{\infty} |H(f)|^2 df}
+$$&lt;p&gt;
+to achieve the maximum value.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>⚡️ Review lessons of Communication Principles released on my bilibili channel</title>
+      <link>https://cv.haiyu.wang/post/communicationprinciple/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/post/communicationprinciple/</guid>
+      <description>&lt;p&gt;This is the recording of the review lessons of Communication Principles released on my bilibili channel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1U84y1g7PR&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;communication-principles-midterm-review&#34;&gt;Communication Principles Midterm Review&lt;/h2&gt;
+&lt;h3 id=&#34;universal-safety-disclaimer&#34;&gt;Universal Safety Disclaimer&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Accuracy&lt;/strong&gt;: Due to my knowledge limitations, there might be errors in the content. Feel free to point them out if you find any.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Concepts&lt;/strong&gt;: This course may involve advanced mathematical knowledge that might be unfamiliar to most of us (myself included). It won’t prevent you from understanding the material or solving problems—just memorize for now and dive deeper later if interested.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Scarcity&lt;/strong&gt;: Limited resources exist for this course; please share any helpful materials you find.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Good Luck&lt;/strong&gt;: Best wishes for your midterm preparation!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;fourier-transform-in-communication-principles&#34;&gt;Fourier Transform in Communication Principles&lt;/h3&gt;
+&lt;h4 id=&#34;key-equations&#34;&gt;Key Equations&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Signal and System Context&lt;/strong&gt;:&lt;br&gt;
+&lt;/p&gt;
+\[
+   F(jw) = \int_{-\infty}^{+\infty} f(t)e^{-jwt} dt, \quad f(t) = \frac{1}{2\pi}\int_{-\infty}^{+\infty} F(jw)e^{jwt} dw
+   \]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Communication Principles Context&lt;/strong&gt;:&lt;br&gt;
+&lt;/p&gt;
+\[
+   V(f) = \int_{-\infty}^{+\infty} v(t)e^{-j2\pi ft} dt, \quad v(t) = \int_{-\infty}^{+\infty} V(f)e^{j2\pi ft} df
+   \]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;important-concepts&#34;&gt;Important Concepts:&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pulse Function&lt;/strong&gt;:&lt;br&gt;
+&lt;/p&gt;
+\[
+   \delta(t-a) \rightarrow F(j\omega) = e^{-ja\omega}, \quad V(f) = e^{-j2\pi fa}
+   \]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rectangular Function&lt;/strong&gt;:&lt;br&gt;
+&lt;/p&gt;
+\[
+   \mathrm{rect}\left(\frac{t}{T}\right) \rightarrow V(f) = T \cdot \mathrm{sinc}(Tf)
+   \]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Convolution Theorem&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time domain convolution corresponds to multiplication in the frequency domain (no need to divide by \( 2\pi \)).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;amplitude-modulation-am&#34;&gt;Amplitude Modulation (AM)&lt;/h3&gt;
+&lt;h4 id=&#34;conventional-am&#34;&gt;&lt;strong&gt;Conventional AM&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modulation Formula&lt;/strong&gt;:&lt;br&gt;
+&lt;/p&gt;
+\[
+   x(t) = A_c[1 + k_a m(t)]\cos(2\pi f_c t)
+   \]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Single Tone Modulation&lt;/strong&gt;:
+&lt;/p&gt;
+\[
+   x(t) = A_c[1 + \mu \cos(2\pi f_m t)]\cos(2\pi f_c t), \quad \mu = k_a \cdot A_m
+   \]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Demodulation&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Envelop detection is used for conventional AM demodulation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;dsbsc-am&#34;&gt;&lt;strong&gt;DSBSC-AM&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modulation Formula&lt;/strong&gt;:&lt;br&gt;
+&lt;/p&gt;
+\[
+   x(t) = m(t) \cdot A_c \cos(2\pi f_c t)
+   \]&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Demodulation&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Local oscillator phase synchronization is critical. The output is:
+\[
+     v_o(t) = \text{constant} \cdot m(t)
+     \]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;signal-to-noise-ratio-snr&#34;&gt;Signal-to-Noise Ratio (SNR)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Noise in AWGN Channel&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Noise power spectrum density is uniform:
+\[
+     S_W(f) = \frac{\eta}{2}, \quad \text{Bandwidth: } B
+     \]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SNR Improvement&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conventional AM:
+\[
+     \frac{SNR_o}{SNR_i} = \frac{2k_a^2 \overline{m^2(t)}}{1 + k_a^2 \overline{m^2(t)}}
+     \]&lt;/li&gt;
+&lt;li&gt;DSBSC-AM:
+\[
+     \frac{SNR_o}{SNR_i} = 2
+     \]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;example-problems-and-practice&#34;&gt;Example Problems and Practice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Illustrated examples and diagrams to explain modulation, demodulation, and SNR calculations in real scenarios.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Implementation of Anti-quantum Communication System Using Software-Defined Radio</title>
-      <link>https://smangic.github.io/publication/yang-rainbow-2023/</link>
+      <link>https://cv.haiyu.wang/publication/yang-rainbow-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/publication/yang-rainbow-2023/</guid>
+      <guid>https://cv.haiyu.wang/publication/yang-rainbow-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>⚡️ Review lessons of Analog Circuit 2 released on my bilibili channel</title>
-      <link>https://smangic.github.io/post/analogcircuit2/</link>
+      <link>https://cv.haiyu.wang/post/analogcircuit2/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/post/analogcircuit2/</guid>
+      <guid>https://cv.haiyu.wang/post/analogcircuit2/</guid>
       <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 2 released on my bilibili channel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -350,9 +709,9 @@ data.head()
     
     <item>
       <title>⚡️ Review lessons of Analog Circuit 2 released on my bilibili channel</title>
-      <link>https://smangic.github.io/post/analog-circuit1/</link>
+      <link>https://cv.haiyu.wang/post/analog-circuit1/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/post/analog-circuit1/</guid>
+      <guid>https://cv.haiyu.wang/post/analog-circuit1/</guid>
       <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 2 released on my bilibili channel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -366,34 +725,26 @@ data.head()
     
     <item>
       <title>Gesture recognition for Human-Computer Interaction (HCI)</title>
-      <link>https://smangic.github.io/project/c&#43;&#43;hci/</link>
+      <link>https://cv.haiyu.wang/project/c&#43;&#43;hci/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/project/c&#43;&#43;hci/</guid>
+      <guid>https://cv.haiyu.wang/project/c&#43;&#43;hci/</guid>
       <description>&lt;p&gt;This project focuses on utilizing OpenCV for hand gesture recognition to perform remote control operations on a computer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Laser Keyboard</title>
-      <link>https://smangic.github.io/project/laserkeyboard/</link>
+      <link>https://cv.haiyu.wang/project/laserkeyboard/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/project/laserkeyboard/</guid>
+      <guid>https://cv.haiyu.wang/project/laserkeyboard/</guid>
       <description>&lt;p&gt;This project is based on the combination of OpenCV with an image camera, a line laser diode, a infrared filter, and a projection laser.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Minesweeper</title>
-      <link>https://smangic.github.io/project/minesweeper/</link>
+      <link>https://cv.haiyu.wang/project/minesweeper/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/project/minesweeper/</guid>
+      <guid>https://cv.haiyu.wang/project/minesweeper/</guid>
       <description>&lt;p&gt;This is a JAVA implementation of Game Minesweeper. It was final project of JAVA Intro Course.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://smangic.github.io/post/communicationprinciple/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://smangic.github.io/post/communicationprinciple/</guid>
-      <description></description>
     </item>
     
   </channel>

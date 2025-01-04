@@ -2,139 +2,148 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smangic.github.io/event/example/</loc>
+    <loc>https://cv.haiyu.wang/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/event/</loc>
+    <loc>https://cv.haiyu.wang/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication_types/</loc>
+    <loc>https://cv.haiyu.wang/publication_types/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication/</loc>
+    <loc>https://cv.haiyu.wang/publication/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication_types/utility-model/</loc>
+    <loc>https://cv.haiyu.wang/publication_types/utility-model-patent/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication/patent/</loc>
+    <loc>https://cv.haiyu.wang/publication/patent/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/projects/</loc>
+    <loc>https://cv.haiyu.wang/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication_types/paper-conference/</loc>
+    <loc>https://cv.haiyu.wang/publication_types/paper-conference/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication/wu-passive-respiration-detection-2024/</loc>
+    <loc>https://cv.haiyu.wang/publication/wu-passive-respiration-detection-2024/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/teaching/</loc>
+    <loc>https://cv.haiyu.wang/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/experience/</loc>
+    <loc>https://cv.haiyu.wang/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/javascript/</loc>
+    <loc>https://cv.haiyu.wang/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/teaching/js/</loc>
+    <loc>https://cv.haiyu.wang/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/teaching/python/</loc>
+    <loc>https://cv.haiyu.wang/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/python/</loc>
+    <loc>https://cv.haiyu.wang/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/</loc>
+    <loc>https://cv.haiyu.wang/tags/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/publication/yang-rainbow-2023/</loc>
+    <loc>https://cv.haiyu.wang/post/communicationprinciple2/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cv.haiyu.wang/tags/bilibili/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cv.haiyu.wang/post/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cv.haiyu.wang/tags/communication-principles/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cv.haiyu.wang/tags/review-lessons/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cv.haiyu.wang/post/communicationprinciple/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cv.haiyu.wang/publication/yang-rainbow-2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/post/analogcircuit2/</loc>
+    <loc>https://cv.haiyu.wang/post/analogcircuit2/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/analog-circuit/</loc>
+    <loc>https://cv.haiyu.wang/tags/analog-circuit/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/bilibili/</loc>
-    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://smangic.github.io/post/</loc>
-    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://smangic.github.io/tags/review-lessons/</loc>
-    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://smangic.github.io/post/analog-circuit1/</loc>
+    <loc>https://cv.haiyu.wang/post/analog-circuit1/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/</loc>
+    <loc>https://cv.haiyu.wang/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/c&#43;&#43;/</loc>
+    <loc>https://cv.haiyu.wang/tags/c&#43;&#43;/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/project/c&#43;&#43;hci/</loc>
+    <loc>https://cv.haiyu.wang/project/c&#43;&#43;hci/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/hci/</loc>
+    <loc>https://cv.haiyu.wang/tags/hci/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/opencv/</loc>
+    <loc>https://cv.haiyu.wang/tags/opencv/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/project/</loc>
+    <loc>https://cv.haiyu.wang/project/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/project/laserkeyboard/</loc>
+    <loc>https://cv.haiyu.wang/project/laserkeyboard/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/game/</loc>
+    <loc>https://cv.haiyu.wang/tags/game/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/tags/java/</loc>
+    <loc>https://cv.haiyu.wang/tags/java/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://smangic.github.io/project/minesweeper/</loc>
+    <loc>https://cv.haiyu.wang/project/minesweeper/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://smangic.github.io/post/communicationprinciple/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

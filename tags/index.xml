@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | WANG Haiyu</title>
-    <link>https://smangic.github.io/tags/</link>
-      <atom:link href="https://smangic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Haiyu WANG</title>
+    <link>https://cv.haiyu.wang/tags/</link>
+      <atom:link href="https://cv.haiyu.wang/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smangic.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://cv.haiyu.wang/media/icon_hu7729264130191091259.png</url>
       <title>Tags</title>
-      <link>https://smangic.github.io/tags/</link>
+      <link>https://cv.haiyu.wang/tags/</link>
     </image>
     
   </channel>

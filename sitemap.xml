@@ -2,147 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cv.haiyu.wang/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication_types/utility-model-patent/</loc>
+    <loc>http://localhost:1313/publication_types/utility-model-patent/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication/patent/</loc>
+    <loc>http://localhost:1313/publication/patent/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication/wu-passive-respiration-detection-2024/</loc>
+    <loc>http://localhost:1313/publication/wu-passive-respiration-detection-2024/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/teaching/python/</loc>
+    <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/post/communicationprinciple2/</loc>
+    <loc>http://localhost:1313/post/communicationprinciple2/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/bilibili/</loc>
+    <loc>http://localhost:1313/tags/bilibili/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/communication-principles/</loc>
+    <loc>http://localhost:1313/tags/communication-principles/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/review-lessons/</loc>
+    <loc>http://localhost:1313/tags/review-lessons/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/post/communicationprinciple/</loc>
+    <loc>http://localhost:1313/post/communicationprinciple/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/publication/yang-rainbow-2023/</loc>
+    <loc>http://localhost:1313/publication/yang-rainbow-2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/post/analog-circuit1/</loc>
+    <loc>http://localhost:1313/post/analog-circuit1/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/analog-circuit/</loc>
+    <loc>http://localhost:1313/tags/analog-circuit/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/post/analogcircuit2/</loc>
+    <loc>http://localhost:1313/post/analogcircuit2/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/c&#43;&#43;/</loc>
+    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/project/c&#43;&#43;hci/</loc>
+    <loc>http://localhost:1313/project/c&#43;&#43;hci/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/hci/</loc>
+    <loc>http://localhost:1313/tags/hci/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/opencv/</loc>
+    <loc>http://localhost:1313/tags/opencv/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/project/laserkeyboard/</loc>
+    <loc>http://localhost:1313/project/laserkeyboard/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/game/</loc>
+    <loc>http://localhost:1313/tags/game/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/tags/java/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cv.haiyu.wang/project/minesweeper/</loc>
+    <loc>http://localhost:1313/project/minesweeper/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

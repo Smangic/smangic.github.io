@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utility Model Patent | Haiyu WANG</title>
-    <link>https://cv.haiyu.wang/publication_types/utility-model-patent/</link>
-      <atom:link href="https://cv.haiyu.wang/publication_types/utility-model-patent/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/utility-model-patent/</link>
+      <atom:link href="http://localhost:1313/publication_types/utility-model-patent/index.xml" rel="self" type="application/rss+xml" />
     <description>Utility Model Patent</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cv.haiyu.wang/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Utility Model Patent</title>
-      <link>https://cv.haiyu.wang/publication_types/utility-model-patent/</link>
+      <link>http://localhost:1313/publication_types/utility-model-patent/</link>
     </image>
     
     <item>
       <title>Welded Workpiece Image Acquisition System</title>
-      <link>https://cv.haiyu.wang/publication/patent/</link>
+      <link>http://localhost:1313/publication/patent/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cv.haiyu.wang/publication/patent/</guid>
+      <guid>http://localhost:1313/publication/patent/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review Lessons | Haiyu WANG</title>
-    <link>https://cv.haiyu.wang/tags/review-lessons/</link>
-      <atom:link href="https://cv.haiyu.wang/tags/review-lessons/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/review-lessons/</link>
+      <atom:link href="http://localhost:1313/tags/review-lessons/index.xml" rel="self" type="application/rss+xml" />
     <description>Review Lessons</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cv.haiyu.wang/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Review Lessons</title>
-      <link>https://cv.haiyu.wang/tags/review-lessons/</link>
+      <link>http://localhost:1313/tags/review-lessons/</link>
     </image>
     
     <item>
       <title>⚡️ Review lessons of Communication Principles 2 released on my bilibili channel</title>
-      <link>https://cv.haiyu.wang/post/communicationprinciple2/</link>
+      <link>http://localhost:1313/post/communicationprinciple2/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://cv.haiyu.wang/post/communicationprinciple2/</guid>
+      <guid>http://localhost:1313/post/communicationprinciple2/</guid>
       <description>&lt;p&gt;This is the recording of the review lessons of Communication Principles 2 released on my bilibili channel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -236,9 +236,9 @@ to achieve the maximum value.&lt;/p&gt;
     
     <item>
       <title>⚡️ Review lessons of Communication Principles released on my bilibili channel</title>
-      <link>https://cv.haiyu.wang/post/communicationprinciple/</link>
+      <link>http://localhost:1313/post/communicationprinciple/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://cv.haiyu.wang/post/communicationprinciple/</guid>
+      <guid>http://localhost:1313/post/communicationprinciple/</guid>
       <description>&lt;p&gt;This is the recording of the review lessons of Communication Principles released on my bilibili channel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -373,9 +373,9 @@ to achieve the maximum value.&lt;/p&gt;
     
     <item>
       <title>⚡️ Review lessons of Analog Circuit 2 released on my bilibili channel</title>
-      <link>https://cv.haiyu.wang/post/analog-circuit1/</link>
+      <link>http://localhost:1313/post/analog-circuit1/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://cv.haiyu.wang/post/analog-circuit1/</guid>
+      <guid>http://localhost:1313/post/analog-circuit1/</guid>
       <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 2 released on my bilibili channel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
@@ -389,9 +389,9 @@ to achieve the maximum value.&lt;/p&gt;
     
     <item>
       <title>⚡️ Review lessons of Analog Circuit 1 released on my bilibili channel</title>
-      <link>https://cv.haiyu.wang/post/analogcircuit2/</link>
+      <link>http://localhost:1313/post/analogcircuit2/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://cv.haiyu.wang/post/analogcircuit2/</guid>
+      <guid>http://localhost:1313/post/analogcircuit2/</guid>
       <description>&lt;p&gt;This is the recording of the review lessons of Analog Circuit 2 released on my bilibili channel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
 &lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;

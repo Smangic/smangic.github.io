@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 20, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: May 29, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -41,7 +41,7 @@
   
     
   
-  <meta name="description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." />
+  <meta name="description" content="Personal website of Haiyu, it contains bio and blog posts." />
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/" />
@@ -185,13 +185,10 @@
   
   <meta property="twitter:card" content="summary" />
   
-    <meta property="twitter:site" content="@GetResearchDev" />
-    <meta property="twitter:creator" content="@GetResearchDev" />
-  
   <meta property="og:site_name" content="Haiyu WANG" />
   <meta property="og:url" content="http://localhost:1313/" />
   <meta property="og:title" content="Haiyu WANG" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
+  <meta property="og:description" content="Personal website of Haiyu, it contains bio and blog posts." /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
     <meta property="twitter:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -249,27 +246,6 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-  
-  
   
   
   
@@ -296,6 +272,34 @@
         
       
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
       
       
         
@@ -332,8 +336,6 @@
         
       
     
-  
-  
   
   
   
@@ -609,6 +611,20 @@
           
           href="/projects/"
         >Projects</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/post/"
+        >Posts</a
         >
       </li>
       
@@ -1614,6 +1630,38 @@
     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
       <div
         class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
+      <a href="/post/surface-plasmon/"><span
+        class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">📚 Personal Review on Spoof Surface Plasmon Polaritons (SSPPs) and Its Applications in Flexible Electronics</span></a>
+    </h2>
+    <time
+      class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-1"
+      datetime="2025-05-20">
+      May 20, 2025
+    </time>
+    <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">This is a personal review on the topic of spoof surface plasmon polaritons (SSPPs). The fundamental concepts, structures, and applications of SSPPs will be discussed. The review also highlights the potential of SSPPs in flexible electronics, including their advantages and challenges.</p>
+    <div aria-hidden="true" class="relative z-10 mt-4 flex items-center text-sm font-medium text-primary-500">
+    Read more
+      <svg aria-hidden="true" class="ml-1 h-4 w-4 stroke-current" fill="none" viewBox="0 0 16 16">
+        <path d="M6.75 5.75 9.25 8l-2.5 2.25" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+      </svg>
+    </div>
+  </div>
+  <time
+    class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500"
+    datetime="2025-05-20">May 20, 2025
+  </time>
+</article>
+
+  
+    
+
+
+
+<article class="md:grid md:grid-cols-4 md:items-baseline">
+  <div class="md:col-span-3 group relative flex flex-col items-start">
+    <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
+      <div
+        class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
       <a href="/post/communicationprinciple2/"><span
         class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">⚡️ Review lessons of Communication Principles 2 released on my bilibili channel</span></a>
     </h2>
@@ -1900,6 +1948,43 @@
 
 
 
+
+  
+    
+      
+      <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let yearFilter = document.getElementById("year-filter");
+        let tagFilter = document.getElementById("tag-filter");
+        let blogPosts = document.querySelectorAll(".blog-post");
+    
+        function filterPosts() {
+            let selectedYear = yearFilter.value;
+            let selectedTag = tagFilter.value.toLowerCase();
+    
+            blogPosts.forEach(post => {
+                let postYear = post.getAttribute("data-year");
+                let postTags = post.getAttribute("data-tags").toLowerCase();
+    
+                let yearMatch = !selectedYear || postYear === selectedYear;
+                let tagMatch = !selectedTag || postTags.includes(selectedTag);
+    
+                if (yearMatch && tagMatch) {
+                    post.style.display = "block";
+                } else {
+                    post.style.display = "none";
+                }
+            });
+        }
+    
+        yearFilter.addEventListener("change", filterPosts);
+        tagFilter.addEventListener("change", filterPosts);
+    });
+    </script>
+    
+      
+    
+  
 
 
 

@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 20, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: May 29, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -41,7 +41,7 @@
   
     
   
-  <meta name="description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." />
+  <meta name="description" content="Personal website of Haiyu, it contains bio and blog posts." />
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/tags/bilibili/" />
@@ -185,13 +185,10 @@
   
   <meta property="twitter:card" content="summary" />
   
-    <meta property="twitter:site" content="@GetResearchDev" />
-    <meta property="twitter:creator" content="@GetResearchDev" />
-  
   <meta property="og:site_name" content="Haiyu WANG" />
   <meta property="og:url" content="http://localhost:1313/tags/bilibili/" />
   <meta property="og:title" content="Bilibili | Haiyu WANG" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
+  <meta property="og:description" content="Personal website of Haiyu, it contains bio and blog posts." /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
     <meta property="twitter:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -241,27 +238,6 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-  
-  
   
   
   
@@ -288,6 +264,34 @@
         
       
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
       
       
         
@@ -324,8 +328,6 @@
         
       
     
-  
-  
   
   
   
@@ -601,6 +603,20 @@
           
           href="/projects/"
         >Projects</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/post/"
+        >Posts</a
         >
       </li>
       
@@ -912,6 +928,43 @@ Bilibili:</p>
 
 
 
+
+  
+    
+      
+      <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let yearFilter = document.getElementById("year-filter");
+        let tagFilter = document.getElementById("tag-filter");
+        let blogPosts = document.querySelectorAll(".blog-post");
+    
+        function filterPosts() {
+            let selectedYear = yearFilter.value;
+            let selectedTag = tagFilter.value.toLowerCase();
+    
+            blogPosts.forEach(post => {
+                let postYear = post.getAttribute("data-year");
+                let postTags = post.getAttribute("data-tags").toLowerCase();
+    
+                let yearMatch = !selectedYear || postYear === selectedYear;
+                let tagMatch = !selectedTag || postTags.includes(selectedTag);
+    
+                if (yearMatch && tagMatch) {
+                    post.style.display = "block";
+                } else {
+                    post.style.display = "none";
+                }
+            });
+        }
+    
+        yearFilter.addEventListener("change", filterPosts);
+        tagFilter.addEventListener("change", filterPosts);
+    });
+    </script>
+    
+      
+    
+  
 
 
 

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta Materials | Haiyu WANG</title>
+    <link>http://localhost:1313/tags/meta-materials/</link>
+      <atom:link href="http://localhost:1313/tags/meta-materials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meta Materials</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Meta Materials</title>
+      <link>http://localhost:1313/tags/meta-materials/</link>
+    </image>
+    
+    <item>
+      <title>📚 Personal Review on Spoof Surface Plasmon Polaritons (SSPPs) and Its Applications in Flexible Electronics</title>
+      <link>http://localhost:1313/post/surface-plasmon/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/surface-plasmon/</guid>
+      <description>&lt;h2 id=&#34;what-is-surface-plasmon-polaritons-spps&#34;&gt;What is Surface Plasmon Polaritons (SPPs)?&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/SSPP-figs/featured.png&#34; alt=&#34;Drude-surface&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Surface plasmons are special electromagnetic waves that travel along the interface between a metal and a dielectric (insulator). Unlike ordinary electromagnetic waves, these surface-bound waves strongly interact with electrons at the metal surface, creating oscillations that can propagate along the interface without radiating away. As shown in the figure above, the induced Electromagnetic (EM) wave excites the free electrons in the metal, and creates a strong coupling between the EM wave and the electron oscillations. And this coupling mode can be transported along the metal-dielectric interface, leading to a surface plasmon polariton (SPP) wave.&lt;/p&gt;
+&lt;h3 id=&#34;drude-lorentz-model&#34;&gt;Drude-Lorentz Model&lt;/h3&gt;
+&lt;p&gt;To understand the behavior of SPPs, it is essential to introduce the Drude-Lorentz model. The Drude–Lorentz model describes the permittivity of materials at high frequency. It is a classical description used to understand how materials, particularly metals and dielectrics, respond to electromagnetic waves.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/SSPP-figs/drude-model.png&#34; alt=&#34;Drude-model&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Figure above shows the description of atom in the view of Drude(-Lorentz) model. In this model, the electrons in a metal are treated as a gas of free particles that can move freely under the influence of an applied electric field. The key assumptions of the Drude model are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The positively charged atomic cores in a metal are surrounded by an electron gas. The core is much heavier than the electrons, and the strong coulomb force between the core and the electrons is described by a harmonic potential.&lt;/li&gt;
+&lt;li&gt;When an external electric field 𝐄0 𝑒−𝑖𝜔𝑡 is applied, the electrons are displaced from their equilibrium positions. The forced oscillation of the electrons is described by the equation:
+$$
+      m_e \,\frac{d^2 \mathbf{r}}{dt^2}
+    \;+\;
+    \gamma\,m_e \,\frac{d \mathbf{r}}{dt}
+    \;+\;
+    K \,\mathbf{r}
+    \;=\;
+    -\,e\,\mathbf{E}_0\,e^{-i\omega t}
+$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;\(m_e\) is the mass of the electron.&lt;/li&gt;
+&lt;li&gt;\(\gamma\) is the damping coefficient, which accounts for the energy loss due to collisions and other dissipative processes.&lt;/li&gt;
+&lt;li&gt;\(K\) is the spring constant of the harmonic potential, which is related to the stiffness of the restoring force that brings the electrons back to their equilibrium positions.&lt;/li&gt;
+&lt;li&gt;\(e\) is the charge of the electron.&lt;/li&gt;
+&lt;li&gt;\(\mathbf{E}_0 e^{-i\omega t}\) is the applied electric field, where \(\mathbf{E}_0\) is the amplitude of the electric field and \(\omega\) is the angular frequency of the oscillation.&lt;/li&gt;
+&lt;li&gt;\(\mathbf{r}\) is the displacement of the electrons from their equilibrium positions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;The electrons will eventually oscillate at the same frequency as the external field. The solution should be in the form $\mathbf{r}=\mathbf{r_0}e^{-i\omega t}$. The final displacement of the electrons is given by the equation:
+$$
+    \mathbf{r}=\frac{e/m_e}{\omega_0^2-\omega^2-i\gamma\omega}\mathbf{E_0}e^{-i\omega t}
+$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If we apply the solution of displacement of the electrons to $\mathbf{P}=N_a~e\mathbf{r}$ we obtain the polarization of the medium per unit volume, it is given by:
+&lt;/p&gt;
+$$
+\mathbf{P}=\frac{N_ae^2/m_e}{\omega_0^2-\omega^2-i\gamma\omega}\mathbf{E_0}e^{-i\omega t}=\frac{ \tilde{\omega}_p^2}{\omega_0^2-\omega^2-i\gamma\omega}\mathbf{E_0}e^{-i\omega t}=\chi\varepsilon_0\mathbf{E}
+$$&lt;p&gt;
+Where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$N_a$ is the number density of atoms.&lt;/li&gt;
+&lt;li&gt;$\tilde{\omega}_p^2=\frac{N_ae^2}{m_e}$ is used to simplify the expression.&lt;/li&gt;
+&lt;li&gt;$\chi$ is the susceptibility of the medium.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, the expression for relative permittivity $\varepsilon_r$ can be obtained by substituting it into the equation for the electric displacement field $\varepsilon_r=1+\chi$, as shown in the following equation:
+&lt;/p&gt;
+$$
+    \varepsilon_r=\frac{\varepsilon}{\varepsilon_0}=1+\frac{ \tilde{\omega}_p^2/\varepsilon_0}{\omega_0^2-\omega^2-i\gamma\omega}=1+\frac{\omega_p^2}{\omega_0^2-\omega^2-i\gamma\omega}
+$$&lt;p&gt;
+Here $\omega_p^2=\frac{N_ae^2}{m_e\varepsilon_0}$ represents the plasma frequency, indicating the characteristic frequency at which free electrons in the metal collectively oscillate. The plasma frequency is a key parameter in determining the optical properties of metals, as it determines the frequency range over which the metal behaves as a good conductor. The value of plasma frequency $\omega_p$ and damping factors $\gamma$ for some noble metals are shown in the table below:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Metal&lt;/th&gt;
+          &lt;th&gt;Plasma Frequency ($10^{15}Hz$)&lt;/th&gt;
+          &lt;th&gt;Damping Factor ($10^{12}Hz$)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Silver&lt;/td&gt;
+          &lt;td&gt;2.18&lt;/td&gt;
+          &lt;td&gt;4.35&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gold&lt;/td&gt;
+          &lt;td&gt;2.18&lt;/td&gt;
+          &lt;td&gt;6.46&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Copper&lt;/td&gt;
+          &lt;td&gt;1.91&lt;/td&gt;
+          &lt;td&gt;8.34&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aluminum&lt;/td&gt;
+          &lt;td&gt;3.57&lt;/td&gt;
+          &lt;td&gt;19.79&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Platinum&lt;/td&gt;
+          &lt;td&gt;1.24&lt;/td&gt;
+          &lt;td&gt;16.73&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;In practice, the electrons in metals are regarded as free electrons, which means the spring factor $K$ is negligible. The model is further simplified as the Drude model without the Lorentz term. The relative permittivity of the metal can be simplified as:
+&lt;/p&gt;
+$$
+    \varepsilon_r(\omega)=1-\frac{\omega_p^2}{\omega^2+\gamma^2}+i\frac{\gamma\omega_p^2}{\omega(\omega^2+\gamma^2)}
+$$&lt;p&gt;
+In the near-infrared (NIR) and visible ranges, the relative permittivity of metals can be further simplified as:
+&lt;/p&gt;
+$$
+    \varepsilon_r(\omega)=1-\frac{\omega_p^2}{\omega^2}
+$$&lt;p&gt;
+In the near-infrared (NIR) and visible (VIS) range, the frequency is about $10^{14} Hz$, and the permittivity in this range is naturally negative. &lt;strong&gt;This negative permittivity is the key to the generation of SPPs.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;why-it-only-works-at-the-surface&#34;&gt;Why it only works at the surface?&lt;/h3&gt;
+&lt;p&gt;To be continued&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

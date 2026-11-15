@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Y | WANG Haiyu</title>
+    <link>http://localhost:60313/tags/p-y/</link>
+      <atom:link href="http://localhost:60313/tags/p-y/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Y</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60313/media/icon_hu7729264130191091259.png</url>
+      <title>P Y</title>
+      <link>http://localhost:60313/tags/p-y/</link>
+    </image>
+    
+    <item>
+      <title>Laser Keyboard</title>
+      <link>http://localhost:60313/project/laserkeyboard/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60313/project/laserkeyboard/</guid>
+      <description>&lt;p&gt;This project is based on the combination of OpenCV with an image camera, a line laser diode, a infrared filter, and a projection laser.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

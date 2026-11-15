@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Haiyu WANG</title>
+    <link>https://cv.haiyu.wang/publication/</link>
+      <atom:link href="https://cv.haiyu.wang/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cv.haiyu.wang/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>https://cv.haiyu.wang/publication/</link>
+    </image>
+    
+    <item>
+      <title>Tailored nanoporous architecture in flexible polymeric aerogel enabling ultrabroadband PHz (VL)–THz–GHz wireless communication</title>
+      <link>https://cv.haiyu.wang/publication/ma-nanoporous-aerogel-2026/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/publication/ma-nanoporous-aerogel-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible RF Switch Based on Oxidation-Controlled Liquid Metal Reconfiguration</title>
+      <link>https://cv.haiyu.wang/publication/wang-flexible-rf-switch-2026/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/publication/wang-flexible-rf-switch-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welded Workpiece Image Acquisition System</title>
+      <link>https://cv.haiyu.wang/publication/patent/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/publication/patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Respiration Detection via mmWave Communication Signal under Interference</title>
+      <link>https://cv.haiyu.wang/publication/wu-passive-respiration-detection-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/publication/wu-passive-respiration-detection-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Anti-quantum Communication System Using Software-Defined Radio</title>
+      <link>https://cv.haiyu.wang/publication/yang-rainbow-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cv.haiyu.wang/publication/yang-rainbow-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
